@@ -4,4 +4,5 @@
 - Map out Trust ZOONES, DMZ, and layers of encription to be applied.
 - Consider Possible ATTACK Vectors
 
-![Threat_modeling_of_zalando-Page-2 drawio](https://github.com/user-attachments/assets/054c7dca-f43e-4955-8d21-1a7db795f902)
+
+![Use case Architecture diagram](https://github.com/user-attachments/assets/d5023037-3e41-406a-83e4-9365d42d6004)
