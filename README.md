@@ -5,4 +5,4 @@
 - Consider Possible ATTACK Vectors
 
 
-![Use case Architecture diagram](https://github.com/user-attachments/assets/d5023037-3e41-406a-83e4-9365d42d6004)
+![Architecture diagram](https://github.com/user-attachments/assets/7ef371f9-cab5-4995-a9ae-a55bdeae71c4)
